@@ -29,6 +29,24 @@
       "url": "node-5.getazur.org",
       "port": 15251,
       "ssl": false
+    },
+     {
+      "name": "node-6.getazur.org",
+      "url": "node-6.getazur.org",
+      "port": 15251,
+      "ssl": false
+    },
+     {
+      "name": "node-7.getazur.org",
+      "url": "node-7.getazur.org",
+      "port": 15251,
+      "ssl": false
+    },
+     {
+      "name": "node-8.getazur.org",
+      "url": "node-8.getazur.org",
+      "port": 15251,
+      "ssl": false
     }
   ]
 }
